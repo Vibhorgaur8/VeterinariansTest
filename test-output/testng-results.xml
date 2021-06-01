@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MainSuite" duration-ms="55620" started-at="2017-11-26T09:09:09Z" finished-at="2017-11-26T09:10:05Z">
+    <groups>
+    </groups>
+    <test name="SmokeTest" duration-ms="55620" started-at="2017-11-26T09:09:09Z" finished-at="2017-11-26T09:10:05Z">
+      <class name="com.veterinarians.com.VeterinariansAppTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.veterinarians.com.VeterinariansAppTests@62ee68d8]" name="setUp" is-config="true" duration-ms="44646" started-at="2017-11-26T14:39:09Z" finished-at="2017-11-26T14:39:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testIfImagePresentOnHomePage()[pri:0, instance:com.veterinarians.com.VeterinariansAppTests@62ee68d8]" name="testIfImagePresentOnHomePage" duration-ms="320" started-at="2017-11-26T14:39:54Z" finished-at="2017-11-26T14:39:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfImagePresentOnHomePage -->
+        <test-method status="PASS" signature="testAllVeterinariansInApp()[pri:0, instance:com.veterinarians.com.VeterinariansAppTests@62ee68d8]" name="testAllVeterinariansInApp" duration-ms="1435" started-at="2017-11-26T14:39:54Z" finished-at="2017-11-26T14:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllVeterinariansInApp -->
+        <test-method status="PASS" signature="testAllOwnersInApp()[pri:0, instance:com.veterinarians.com.VeterinariansAppTests@62ee68d8]" name="testAllOwnersInApp" duration-ms="1156" started-at="2017-11-26T14:39:55Z" finished-at="2017-11-26T14:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllOwnersInApp -->
+        <test-method status="PASS" signature="testAddNewOwnerAndPet()[pri:0, instance:com.veterinarians.com.VeterinariansAppTests@62ee68d8]" name="testAddNewOwnerAndPet" duration-ms="5940" started-at="2017-11-26T14:39:57Z" finished-at="2017-11-26T14:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNewOwnerAndPet -->
+        <test-method status="PASS" signature="testOwnerAndPetAddedDetails()[pri:0, instance:com.veterinarians.com.VeterinariansAppTests@62ee68d8]" name="testOwnerAndPetAddedDetails" duration-ms="1253" started-at="2017-11-26T14:40:02Z" depends-on-methods="com.veterinarians.com.VeterinariansAppTests.testAddNewOwnerAndPet" finished-at="2017-11-26T14:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOwnerAndPetAddedDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.veterinarians.com.VeterinariansAppTests@62ee68d8]" name="tearDown" is-config="true" duration-ms="776" started-at="2017-11-26T14:40:04Z" finished-at="2017-11-26T14:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.veterinarians.com.VeterinariansAppTests -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- MainSuite -->
+</testng-results>
