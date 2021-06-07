@@ -31,12 +31,12 @@ I have created a UI Automation framework that automates following scenarios:
 ## Prerequisites
 
 The following items should be installed in your system:
-• Maven 3 (http://www.sonatype.com/books/mvnref-book/reference/installation.html)
-• git command line tool (https://help.github.com/articles/set-up-git)
-Execute the below mention command to run the application on local environment:
+1) Maven 3 (http://www.sonatype.com/books/mvnref-book/reference/installation.html)
+2) git command line tool (https://help.github.com/articles/set-up-git)
+3) Execute the below mention command to run the application on local environment:
 git clone https://github.com/spring-projects/spring-petclinic.git cd spring-petclinic
 ./mvnw spring-boot:run
-After this you can access the application on: http://localhost:8080/
+4) After this you can access the application on: http://localhost:8080/
  
 ## Running Test Cases
 
