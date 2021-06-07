@@ -19,6 +19,15 @@ This project is prepared as a sample project for learning purposes.
 
 Simply clone the project in IDE.
 
+## Assignment
+
+I have created a UI Automation framework that automates following scenarios:
+1) Verify image on home page
+2) Find all the Veterinarians which are added in the application
+3) Find all the existing owners which are added in application
+4) Add a new owner, add pet for that owner.
+5) Check all the information added for the newly created owner and pet is correct
+
 ## Prerequisites
 
 The following items should be installed in your system:
